@@ -1,4 +1,4 @@
-# API RESTful de Eventos Acadêmicos (desatualizado, vá para APS 3 onde se encontra o projeto atualizado)
+# API RESTful de Eventos Acadêmicos (desatualizado, vá para APS 3 Backend onde se encontra o projeto atualizado)
 
 Projeto desenvolvido em Python com FastAPI para gerenciamento de eventos acadêmicos, participantes e inscrições.
 
